@@ -1,9 +1,12 @@
 {
   "dependencies": {
     "body-parser": "^1.15.2",
-    "express": "4.14.0"
+    "express": "4.14.0",
+    "slack-node": "^0.1.8",
+    "xhr": "^2.4.0",
+    "xmlhttprequest": "^1.8.0"
   },
-   "scripts": {
+  "scripts": {
     "start": "node server.js"
   }
 }
